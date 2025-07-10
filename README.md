@@ -11,6 +11,8 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/fkarimmalanga/threat-hunting-scenario-tor-)**
+- **[Threat Hunt Report ( Investigation of Exposed VM and Brute Force Attempts)](https://docs.google.com/document/d/1MCj0a30s3iQQ6hxWA7_RApl7NtpoIvS0peqOoHzIor0/edit?usp=sharing)**
+
 
    
 <hr/>
