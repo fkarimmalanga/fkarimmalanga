@@ -2,7 +2,11 @@
 
 I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
+## 🛡️ Cybersecurity Quality Advisor – Control Assessment
 
+- **[Cybersecurity Quality Advisor – Control Assessment & Risk Reporting](https://github.com/fkarimmalanga/Cybersecurity-Quality-Advisor-Control-Assessment)**
+  - Simulated project demonstrating control validation, evidence review, and risk reporting aligned with NIST RMF and cybersecurity quality assurance practices.
+    
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/fkarimmalanga/vulnerability-management-program)**
@@ -11,7 +15,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/fkarimmalanga/threat-hunting-scenario-tor-)**
-- **[Threat Hunt Report ( Investigation of Exposed VM and Brute Force Attempts)](https://docs.google.com/document/d/1MCj0a30s3iQQ6hxWA7_RApl7NtpoIvS0peqOoHzIor0/edit?usp=sharing)**
+- **[Threat Hunt Report ( Investigation of Exposed VM and Brute Force Attempts)](https://docs.google.com/document/d/1MCj0a30s3iQQ6hxWA7_RApl7NtpoIvS0peqOoHzIor0/edit?usp=sharing)**so
 
 
    
